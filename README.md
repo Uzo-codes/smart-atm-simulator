@@ -1,4 +1,4 @@
-#Smart ATM Simulator
+# Smart ATM Simulator
 
 A minimalist ATM simulation developed in Python. This command-line interface (CLI) tool replicates core ATM functionalities: authentication, balance inquiry, deposits, and withdrawals.
 
@@ -11,16 +11,13 @@ This Smart ATM Simulator serves as a personal learning project to explore:
 - Simulated user interaction via CLI
 - Real-world problem modeling with basic Python
 
-The project is deliberately minimal—prioritizing clarity and logical design over feature creep.
----
+## Key Features
 
-##Key Features
-
-- PIN-based Authentication**  
-- Balance Display & Update**  
-- Deposit & Withdraw with Validation**  
-- Session Menu Loop with Exit Control**  
-- Simple, Modular, and Extensible Code**
+- PIN-based Authentication
+- Balance Display & Update
+- Deposit & Withdraw with Validation
+- Session Menu Loop with Exit Control 
+- Simple, Modular, and Extensible Code
 ---
 
 
