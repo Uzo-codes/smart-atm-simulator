@@ -13,13 +13,12 @@ def login():
         if pin == USER_PIN:
             print("Login Successful! \n")
             return True
-        
         else:
             print("Incorrect PIN. Try again.")
 
         #If all attempts fail
-        print("Too many failed attempts. Card blocked.")
-        return False
+    print("Too many failed attempts. Card blocked.")
+    return False
     
 #Display the menu options
 def show_menu():
